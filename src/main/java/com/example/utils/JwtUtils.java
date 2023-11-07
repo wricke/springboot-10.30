@@ -1,4 +1,4 @@
-package com.example;
+package com.example.utils;
 //
 //import io.jsonwebtoken.Claims;
 //import io.jsonwebtoken.Jwts;

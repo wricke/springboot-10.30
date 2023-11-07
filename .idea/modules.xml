@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/boot3-robot-starter/boot3-robot-starter.iml" filepath="$PROJECT_DIR$/boot3-robot-starter/boot3-robot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot3-test/boot3-test.iml" filepath="$PROJECT_DIR$/boot3-test/boot3-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-10.30.iml" filepath="$PROJECT_DIR$/springboot-10.30.iml" />
     </modules>
   </component>
